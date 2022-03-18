@@ -1,2 +1,2 @@
 # C214
- Lista 1 de C214
+ Entrega dos exercicios teoricos e praticos da materia de Engenharia de Software.
