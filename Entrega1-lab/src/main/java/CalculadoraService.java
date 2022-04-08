@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface CalculadoraService {
+public interface CalculadoraService {
+
+    public int numero(int num1, int num2);
 }
