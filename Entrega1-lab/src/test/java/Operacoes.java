@@ -1,4 +1,7 @@
 public class Operacoes {
 
-    public static int multiplica = Integer.parseInt("{\"num1\": 2, \n " + " \"num2\": 3 }");
+    public static String multiplica = "{\"operacao\": 10}";
+
+    public static String erro = "{\"operacao\": 0}";
+
 }

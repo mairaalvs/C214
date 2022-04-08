@@ -5,12 +5,15 @@ import static org.junit.Assert.assertEquals;
 
 public class TesteCalculadora {
     CalculadoraService service;
+    Operacoes buscaOperacoes;
 
     private Calculadora calculadora;
 
     @Before
     public void setUp(){
-        calculadora = new Calculadora();
+        service = new MockCalculadoraService();
+        buscaOperacoes = new Operacoes(service);
+        calculadora = new Calculadora("soma");
 
     }
 
@@ -38,6 +41,11 @@ public class TesteCalculadora {
         assertEquals(2, resultado);
     }
 
-    
+    @Test
+    public void testeMultiplicacaoMock(){
+
+    }
+
+
 
 }

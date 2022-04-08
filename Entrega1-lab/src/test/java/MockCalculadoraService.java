@@ -2,7 +2,10 @@
 public class MockCalculadoraService implements CalculadoraService{
 
     @Override
-    public int numero(int numero1, int numero2){
-        return Operacoes.multiplica;
+    public String busca(int id){
+        if (id == 10){
+            return Operacoes.multiplica;
+        }
+        else return Operacoes.erro;
     }
 }
