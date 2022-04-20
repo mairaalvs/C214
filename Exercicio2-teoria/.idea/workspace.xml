@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf31cada-ae57-4be5-b7ed-bbb9a8116d14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pilha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PilhaCheiaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PilhaVaziaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestePilha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Entrega1-lab/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Entrega1-lab/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.TestePilha.testePilhaVazia">
+  <component name="RunManager" selected="JUnit.TestePilha.testePush2Elementos">
     <configuration name="TestePilha.testPushPilha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercicio2-teoria" />
       <option name="PACKAGE_NAME" value="" />
@@ -106,9 +97,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestePilha.testePilhaVazia" />
-        <item itemvalue="JUnit.TestePilha.testPushPilha" />
         <item itemvalue="JUnit.TestePilha.testePush2Elementos" />
+        <item itemvalue="JUnit.TestePilha.testPushPilha" />
+        <item itemvalue="JUnit.TestePilha.testePilhaVazia" />
         <item itemvalue="JUnit.TestePilha.testePop" />
         <item itemvalue="JUnit.TestePilha.testePopPilhaVazia" />
       </list>
